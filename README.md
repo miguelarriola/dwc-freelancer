@@ -4,7 +4,7 @@ Página responsiva del curso de Udemy "Desarrollo Web Completo" para freelancer.
 
 ## Comenzando 🚀
 
-Ver el proyecto en [freelancer](https://miguelarriola.github.io/dwc/freelancer)
+Ver el proyecto en [dwc-freelancer](https://miguelarriola.github.io/dwc-freelancer)
 
 ## Construido con 🛠️
 
